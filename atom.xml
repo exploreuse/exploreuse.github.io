@@ -41,6 +41,29 @@
   </entry>
   
   <entry>
+    <title>first 文章</title>
+    <link href="http://exploreuse.github.io/2024/11/09/first-wen-zhang/"/>
+    <id>http://exploreuse.github.io/2024/11/09/first-wen-zhang/</id>
+    <published>2024-11-09T11:27:18.000Z</published>
+    <updated>2024-11-22T10:24:49.754Z</updated>
+    
+    <content type="html"><![CDATA[<p>–我叫TX，你好</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;–我叫TX，你好&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="试验" scheme="http://exploreuse.github.io/tags/%E8%AF%95%E9%AA%8C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://exploreuse.github.io/2024/11/09/hello-world/"/>
     <id>http://exploreuse.github.io/2024/11/09/hello-world/</id>
