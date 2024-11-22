@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TX0-0</title>
   
-  <subtitle>失误是进取的代价</subtitle>
+  <subtitle>失败是进取的代价</subtitle>
   <link href="http://exploreuse.github.io/atom.xml" rel="self"/>
   
   <link href="http://exploreuse.github.io/"/>
@@ -37,19 +37,6 @@
     
     
     <category term="javaSSM" scheme="http://exploreuse.github.io/tags/javaSSM/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>first 文章</title>
-    <link href="http://exploreuse.github.io/2024/11/09/first-wen-zhang/"/>
-    <id>http://exploreuse.github.io/2024/11/09/first-wen-zhang/</id>
-    <published>2024-11-09T11:27:18.000Z</published>
-    <updated>2024-11-09T11:27:18.671Z</updated>
-    
-    
-    
-    
     
   </entry>
   
